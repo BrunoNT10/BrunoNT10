@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Bruno</h2>
 
-<h2 align="center">About me</h2><h3 align="center"> I'm a computer engineering student, and I'm currently studying and working with data analysis using Python. I have been work also with API's development using Python.</h3>
+<h3 align="center"> I'm a computer engineering student, and I'm currently studying and working with data analysis using Python. I have been work also with API's development using Python.</h3>
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" height="20px"> My Stats</h2>
   
@@ -33,7 +33,7 @@
 <h4 align='center'>
 <div>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a> 
- 	  <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
+ 	<a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
     <a href = "#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
     <a href = "#"><img src="https://img.shields.io/badge/REACT-eb6b86?style=for-the-badge&logo=react&logoColor=white" target="_blank"></a>
 </div>
@@ -44,8 +44,7 @@
 <h4 align='center'>
   <div>
  <a href = "#"><img src="https://img.shields.io/badge/Python-00ab00?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
- <a href = "#"><img src="https://img.shields.io/badge/AWS-ff7f00
-?style=for-the-badge&logo=amazonaws&logoColor=white" target="_blank"></a>
+ <a href = "#"><img src="https://img.shields.io/badge/AWS-ff7f00?style=for-the-badge&logo=amazonaws&logoColor=white" target="_blank"></a>
  <a href = "#"><img src="https://img.shields.io/badge/DynamoDB-3776AB?style=for-the-badge&logo=amazonaws&logoColor=black" target="_blank"></a>
  <a href = "#"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" target="_blank"></a>
 </div>
