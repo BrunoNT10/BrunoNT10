@@ -61,7 +61,7 @@
   </div>
 <h4 align='center'>
  
-  ![Snake animation](https://github.com/BrunoNT10/BrunoNT10/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/BrunoNT10/BrunoNT10/blob/output/github-contribution-grid-snake.svg)  
 
 <h4 align='center'>
 
