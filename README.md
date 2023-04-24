@@ -8,7 +8,6 @@
 <div align="center">
   <a href="https://github.com/BrunoNT10">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BrunoNT10&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoNT10&layout=compact&theme=vision-friendly-dark&count_private=true"/>
 </div>
 <h2 align='center'>
   <p align="center"><a href="https://github.com/BrunoNT10">    
